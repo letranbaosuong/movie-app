@@ -1,0 +1,2 @@
+rootProject.name = "Mooc Android"
+include ':app'

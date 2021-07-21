@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Movie Box</string>
+    <string name="api_key">c75fbc8e01d2b6899d183c25c4db6428</string>
+    <string name="vi">vi-VN</string>
+    <string name="en">en-US</string>
+    <string name="url_image">https://image.tmdb.org/t/p/w500</string>
+    <string name="access_token">eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJjNzVmYmM4ZTAxZDJiNjg5OWQxODNjMjVjNGRiNjQyOCIsInN1YiI6IjVmZmQxNTA0ZGQ4M2ZhMDAzZDc0Y2Q2OCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.cJKWrPRWrTmI5riiB9jnmAPFgJqYrjwz6RaqANRI1Pw</string>
+    <string name="domain_api">api.themoviedb.org</string>
+    <string name="domain_image">image.tmdb.org</string>
+    <string name="playing_now">Playing now</string>
+    <string name="most_popular">Most popular</string>
+    <string name="image_description">Image description</string>
+    <string name="text_title">Text Title</string>
+    <string name="movie_detail">Movie detail</string>
+    <string name="movie_time">Movie time</string>
+    <string name="movie_title">Movie title</string>
+    <string name="movie_date">Movie date</string>
+    <string name="percent_66">66%</string>
+    <string name="model_date_time">Model date time</string>
+    <string name="over_view">Over view</string>
+    <string name="genre">Genre</string>
+</resources>
